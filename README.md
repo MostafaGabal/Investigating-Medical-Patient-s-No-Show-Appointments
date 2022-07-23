@@ -4,7 +4,7 @@ Udacity Data Analyst Degree - Project II
 ## Overview
 The goal of this project is to investigate a dataset of appoinment records for Brasil public hospitals. The data includes some attributes of patients and state if the patients showed up to appointments. The analysis is focused on finding trends influencing patients to show or not show up to appointments.
 
-The original problem description and data set can be found 
+The original problem description and data set can be found <br/> 
 here:<a href="https://www.kaggle.com/joniarroba/noshowappointments/home" target="_blank">https://www.kaggle.com/joniarroba/noshowappointments/home</a> 
 
 This project was completed as part of Udacity's Data Analyst Nanodegree certification.
